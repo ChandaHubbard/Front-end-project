@@ -20,9 +20,9 @@ A front end project that incorporates several topics I have learned from JavaScr
 
 ### CSS
 
-  ### JavaScript
+### JavaScript
   
-  [x] dynamically .map() data and render
+- [ ] dynamically .map() data and render
   
     - [ ] 
     - [ ] 
