@@ -3,9 +3,14 @@ A front end project that incorporates several topics I have learned from JavaScr
 
 #
 ## To do
+
+### HTML
+
+### CSS
+
   ### JavaScript
   
-  [x]  
+  [x]  dynamically .map() data and render
     - [ ] 
     - [ ] 
     - [ ] 
