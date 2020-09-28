@@ -4,7 +4,7 @@ A front end project that incorporates several topics I have learned from JavaScr
 #
 ## To do
   ### JavaScript
-    - [ ] 
+[ ] 
     - [ ] 
     - [ ] 
     - [ ] 
