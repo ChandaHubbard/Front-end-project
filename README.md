@@ -29,7 +29,7 @@ A front end project that incorporates several topics I have learned from JavaScr
 - [ ] <b>Single Page Application</b> [example](https://youtu.be/lUUOMdnLBqY?t=113)
 - [ ] <b>Progressive Web App</b> [example](https://youtu.be/lUUOMdnLBqY?t=204)
 - [ ] <b>Landing Page using GSAP4 Animation/b> [example](https://youtu.be/lUUOMdnLBqY?t=327)
-- [x] <b>Full Stack Application with Node.js</b> [example](https://youtu.be/lUUOMdnLBqY?t=434)
+- [x ] <b>Full Stack Application with Node.js</b> [example](https://youtu.be/lUUOMdnLBqY?t=434)
 
 ### React
 - [ ] 
