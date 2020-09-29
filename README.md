@@ -25,11 +25,11 @@ A front end project that incorporates several topics I have learned from JavaScr
 - [ ] 
 - [ ] 
 - [ ] 
-- [ ] <b>Form Validation</b> (example)[https://youtu.be/lUUOMdnLBqY?t=46]
-- [ ] <b>Form Validation</b> (example)[https://youtu.be/lUUOMdnLBqY?t=46]
-- [ ] <b>Form Validation</b> (example)[https://youtu.be/lUUOMdnLBqY?t=46]
-- [ ] <b>Form Validation</b> (example)[https://youtu.be/lUUOMdnLBqY?t=46]
-- [ ] <b>Form Validation</b> (example)[https://youtu.be/lUUOMdnLBqY?t=46]
+- [ ] <b>Form Validation</b> [example](https://youtu.be/lUUOMdnLBqY?t=46)
+- [ ] <b>Form Validation</b> [example](https://youtu.be/lUUOMdnLBqY?t=46)
+- [ ] <b>Form Validation</b> [example](https://youtu.be/lUUOMdnLBqY?t=46)
+- [ ] <b>Form Validation</b> [example](https://youtu.be/lUUOMdnLBqY?t=46)
+- [ ] <b>Form Validation</b> [example](https://youtu.be/lUUOMdnLBqY?t=46)
 
 ### React
 - [ ] 
