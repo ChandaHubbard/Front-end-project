@@ -11,11 +11,11 @@ A front end project that incorporates several topics I have learned from JavaScr
 ### JavaScript
   
 
-- [ ] <b>Form Validation</b> [explination](https://youtu.be/lUUOMdnLBqY?t=46)
-- [ ] <b>Single Page Application</b> [explination](https://youtu.be/lUUOMdnLBqY?t=113)
-- [ ] <b>Progressive Web App</b> [explination](https://youtu.be/lUUOMdnLBqY?t=204)
-- [ ] <b>Landing Page using GSAP4 Animation</b> [explination](https://youtu.be/lUUOMdnLBqY?t=327)
-- [X] <b>Full Stack Application with Node.js</b> [explination](https://youtu.be/lUUOMdnLBqY?t=434)
+- [ ] <b>Form Validation</b> [explanation](https://youtu.be/lUUOMdnLBqY?t=46)
+- [ ] <b>Single Page Application</b> [explanation](https://youtu.be/lUUOMdnLBqY?t=113)
+- [ ] <b>Progressive Web App</b> [explanation](https://youtu.be/lUUOMdnLBqY?t=204)
+- [ ] <b>Landing Page using GSAP4 Animation</b> [explanation](https://youtu.be/lUUOMdnLBqY?t=327)
+- [X] <b>Full Stack Application with Node.js</b> [explanation](https://youtu.be/lUUOMdnLBqY?t=434)
 - [ ] <b>Dynamic Countdown Timer</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/12-countdown-timer) | [example](https://vannilla-js-basic-project-12-countdown.netlify.app/))
 - [ ] <b>Dynamic Tabs and content</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/11-tabs) | [example](https://vannilla-js-basic-project-11-tabs.netlify.app/))
 - [ ] <b>Smooth Scroll with Dynamic Nav Bar height</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/10-scroll) | [example](https://vannilla-js-basic-project-10-scroll.netlify.app/))
