@@ -17,9 +17,12 @@ A front end project that incorporates several topics I have learned from JavaScr
 - [ ] <b>Landing Page using GSAP4 Animation</b> [explanation](https://youtu.be/lUUOMdnLBqY?t=327)
 - [X] <b>Full Stack Application with Node.js</b> [explanation](https://youtu.be/lUUOMdnLBqY?t=434)
 - [ ] <b>Lorem Ipsum Generator</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/13-lorem-ipsum) | [example](https://vannilla-js-basic-project-13-lorem-ipsum.netlify.app/))
-  Forms
-  Events
-  `Math.random()`
+  
+  - Forms
+  
+  - Events
+  
+  - `Math.random()`
 - [ ] <b>Dynamic Countdown Timer</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/12-countdown-timer) | [example](https://vannilla-js-basic-project-12-countdown.netlify.app/))
 - [ ] <b>Dynamic Tabs and content</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/11-tabs) | [example](https://vannilla-js-basic-project-11-tabs.netlify.app/))
 - [ ] <b>Smooth Scroll with Dynamic Nav Bar height</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/10-scroll) | [example](https://vannilla-js-basic-project-10-scroll.netlify.app/))
