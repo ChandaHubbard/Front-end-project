@@ -29,7 +29,9 @@ A front end project that incorporates several topics I have learned from JavaScr
 - [ ] <b>Video project with preloader and slide controls</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/9-video) | [example](https://vannilla-js-basic-project-9-video-preloader.netlify.app/))
 - [ ] <b>Dynamic food menu & filter buttons</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/8-menu)| [example](https://vanilla-js-basic-project-8-menu.netlify.app/))
     
-    dynamically `.map()` `.reduce()` or ES6 `=>` data and render
+    - dynamically `.map()` 
+    - `.reduce()` 
+    - ES6 `=>` data and render
 - [ ] <b>Questions</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/7-questions) | [example](https://vanilla-js-basic-project-7-questions.netlify.app/))
 - [ ] <b>Modal</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/6-modal) | [example](https://vanilla-js-basic-project-6-modal.netlify.app/))
 - [ ] <b>Side Bar</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/5-sidebar) | [example](https://vanilla-js-basic-project-5-sidebar.netlify.app/))
