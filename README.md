@@ -43,4 +43,9 @@ A front end project that incorporates several topics I have learned using JavaSc
 - [ ] <b>Color Flipper</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/1-color-flipper) | [example](https://vannilla-js-basic-project-1-background-color.netlify.app/))
 
 ### React
+
+#
+### Ideas
+- [ ] Resturaunt or Musician Landing page
+- [ ] Ecommerce site for a painter/artist
  
