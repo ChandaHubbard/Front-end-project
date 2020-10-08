@@ -48,4 +48,6 @@ A front end project that incorporates several topics I have learned using JavaSc
 ### Ideas
 - [ ] Resturaunt or Musician Landing page
 - [ ] Ecommerce site for a painter/artist with shopable back end [explanation](https://youtu.be/oluY633rkgI?t=290)
+  - *BONUS* user authentication
+  - *BONUS* inventory system
  
