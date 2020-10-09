@@ -16,7 +16,10 @@ A front end project that incorporates several topics I have learned using JavaSc
 - [ ] <b>Progressive Web App</b> [explanation](https://youtu.be/lUUOMdnLBqY?t=204)
 - [ ] <b>Landing Page using GSAP4 Animation</b> [explanation](https://youtu.be/lUUOMdnLBqY?t=327)
 - [X] <b>Full Stack Application with Node.js</b> [explanation](https://youtu.be/lUUOMdnLBqY?t=434)
-- [ ] <b>Grocery/To-do Checklist</b> ([code]( ) | [example]( ))
+- [ ] <b>Grocery/To-do Checklist</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/14-todo) | [example](https://vannilla-js-basic-project-14-grocery-bud.netlify.app/))
+  - add, remove and edit items dynamically in a grocery(to-do) list
+  
+  - save data in `localStorage`
   
 - [ ] <b>Lorem Ipsum Generator</b> ([code](https://github.com/ChandaHubbard/Build-15-Vanilla-JavaScript-Projects/tree/master/13-lorem-ipsum) | [example](https://vannilla-js-basic-project-13-lorem-ipsum.netlify.app/))
   
